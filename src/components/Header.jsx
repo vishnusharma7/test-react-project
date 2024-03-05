@@ -12,6 +12,8 @@ function Header() {
           <Link to={"/home"}>Home</Link>
           <Link to={"/about"}>About Us</Link>
           <Link to={"/details"}>Product</Link>
+          <Link to={"/admin"}>Admin Report</Link>
+
         </ul>
       </nav>
     </>
